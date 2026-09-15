@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indexhtml-2-one-hazel.vercel.app/sitemap.xml

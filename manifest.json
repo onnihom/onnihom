@@ -1,0 +1,31 @@
+{
+  "name": "Onnihom — The Global Home-Based Directory",
+  "short_name": "Onnihom",
+  "description": "A directory of home-based businesses — home kitchens, craft studios, cafes, and services around the world.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFBF2",
+  "theme_color": "#FFAC25",
+  "icons": [
+    {
+      "src": "/icon-192.png?v=2",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-maskable.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
